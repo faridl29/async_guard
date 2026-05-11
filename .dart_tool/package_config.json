@@ -14,6 +14,12 @@
       "languageVersion": "3.1"
     },
     {
+      "name": "cache_guard",
+      "rootUri": "file:///Users/miftahfaridlal-anshari/.pub-cache/hosted/pub.dev/cache_guard-0.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
       "name": "characters",
       "rootUri": "file:///Users/miftahfaridlal-anshari/.pub-cache/hosted/pub.dev/characters-1.4.0",
       "packageUri": "lib/",
