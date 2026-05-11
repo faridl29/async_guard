@@ -1,0 +1,30 @@
+name: async_guard
+description: >-
+  Prevent duplicate async calls, handle loading & errors in one line.
+  Safe lifecycle, double-tap protection, and clean API for Flutter.
+version: 0.0.1
+homepage: https://github.com/faridl29/async_guard
+repository: https://github.com/faridl29/async_guard
+issue_tracker: https://github.com/faridl29/async_guard/issues
+documentation: https://github.com/faridl29/async_guard#readme
+funding:
+  - https://sociabuzz.com/faridl29/support
+topics:
+  - async
+  - guard
+  - loading
+  - button
+  - state-management
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: '>=3.10.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
